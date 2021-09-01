@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MitchellDeCarlo
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... App Development, Game Development and CyberSecurity
+- 🌱 I’m currently learning ... Computer Science at Wilfrid Laurier University
 - 📫 How to reach me ... decarlomitch9@gmail.com
 
 <!---
